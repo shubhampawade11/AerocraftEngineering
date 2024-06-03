@@ -1,0 +1,44 @@
+.light{
+    width: 62%;
+    height: 107px;
+    
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+.err_show{
+    font-size: 14px;
+}
+
+.col-md-2{
+    width: 17.666667% !important;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+
+.seq-input{
+    width: 72px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.color-sequence{
+    width: 12%;
+    margin-top: 28px;
+    margin-left: 34%;
+}
+.btnDiv{
+    margin-left: 29%;
+    margin-top: 5%;
+    
+}
